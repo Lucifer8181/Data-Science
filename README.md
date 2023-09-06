@@ -1,3 +1,3 @@
 # Data-Science
-image-classification using cnn
-sentiment analysis on twitter data
+# 1.image-classification using cnn
+# 2.sentiment analysis on twitter data
